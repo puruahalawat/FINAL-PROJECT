@@ -1,0 +1,139 @@
+/* Calendar container */
+.react-calendar {
+  width: 100%;
+  background: white;
+  border: none;
+  font-family: 'Satoshi', sans-serif;
+  line-height: 1.125em;
+}
+
+/* Navigation area (month/year) */
+.react-calendar__navigation {
+  margin-bottom: 1rem;
+}
+
+.react-calendar__navigation button {
+  min-width: 44px;
+  background: none;
+  font-size: 16px;
+  padding: 8px;
+  color: #333;
+}
+
+.react-calendar__navigation button:enabled:hover,
+.react-calendar__navigation button:enabled:focus {
+  background-color: #f0f0f0;
+  border-radius: 4px;
+}
+
+.react-calendar__navigation button[disabled] {
+  background-color: #f0f0f0;
+  opacity: 0.5;
+}
+
+/* Month view */
+.react-calendar__month-view__weekdays {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 0.8em;
+  color: #666;
+  padding: 8px 0;
+}
+
+.react-calendar__month-view__days__day {
+  padding: 8px;
+  color: #333;
+}
+
+/* Weekend days */
+.react-calendar__month-view__days__day--weekend {
+  color: #d10000;
+}
+
+/* Neighboring month days */
+.react-calendar__month-view__days__day--neighboringMonth {
+  color: #969696;
+}
+
+/* Tiles (days) */
+.react-calendar__tile {
+  max-width: 100%;
+  padding: 10px 6px;
+  background: none;
+  text-align: center;
+  line-height: 16px;
+  font-size: 14px;
+  border-radius: 4px;
+}
+
+.react-calendar__tile:enabled:hover,
+.react-calendar__tile:enabled:focus {
+  background-color: #e6f3ff;
+  color: #007bff;
+}
+
+.react-calendar__tile--now {
+  background: #ffefb7;
+}
+
+.react-calendar__tile--now:enabled:hover,
+.react-calendar__tile--now:enabled:focus {
+  background: #ffe69c;
+}
+
+.react-calendar__tile--active {
+  background: #007bff;
+  color: white;
+}
+
+.react-calendar__tile--active:enabled:hover,
+.react-calendar__tile--active:enabled:focus {
+  background: #0056b3;
+}
+
+/* Disabled tiles */
+.react-calendar__tile:disabled {
+  background-color: #f0f0f0;
+  color: #969696;
+}
+
+/* Days with classes */
+.has-classes {
+  position: relative;
+  background-color: #e3f2fd !important;
+  font-weight: bold;
+}
+
+.has-classes::after {
+  content: '';
+  position: absolute;
+  bottom: 4px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 4px;
+  height: 4px;
+  background-color: #007bff;
+  border-radius: 50%;
+}
+
+/* When a day with classes is selected */
+.react-calendar__tile--active.has-classes {
+  background-color: #007bff !important;
+  color: white;
+}
+
+.react-calendar__tile--active.has-classes::after {
+  background-color: white;
+}
+
+/* Hover state for days with classes */
+.has-classes:enabled:hover,
+.has-classes:enabled:focus {
+  background-color: #bbdefb !important;
+}
+
+.react-calendar__tile--active.has-classes:enabled:hover,
+.react-calendar__tile--active.has-classes:enabled:focus {
+  background-color: #0056b3 !important;
+} 

@@ -1,0 +1,81 @@
+.member-enrollment {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.enrollment-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.enrollment-header h2 {
+  font-weight: 700;
+  color: #333;
+}
+
+.close-btn {
+  background: transparent !important;
+  border: none;
+  font-size: 2rem;
+  color: #666 !important;
+  cursor: pointer;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  color: #495057;
+}
+
+.form-group input,
+.form-group select {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-family: "Satoshi", sans-serif;
+}
+
+.form-actions {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.cancel-btn,
+.submit-btn {
+  flex: 1;
+  padding: 0.75rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.cancel-btn {
+  background-color: #f8f9fa !important;
+  border: 1px solid #ddd !important;
+  color: #495057 !important;
+}
+
+.submit-btn {
+  background-color: #28a745 !important;
+  border: none !important;
+  color: white !important;
+}
+
+.submit-btn:hover {
+  background-color: #218838;
+}

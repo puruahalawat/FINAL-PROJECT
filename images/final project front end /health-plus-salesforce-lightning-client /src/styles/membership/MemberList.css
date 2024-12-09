@@ -1,0 +1,88 @@
+.member-list {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+}
+
+.filters {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.search-input {
+  flex: 1;
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-family: 'Satoshi', sans-serif;
+}
+
+.filter-select {
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  min-width: 150px;
+  font-family: 'Satoshi', sans-serif;
+}
+
+.members-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.members-table th {
+  text-align: left;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  font-weight: 500;
+  color: #495057;
+}
+
+.members-table td {
+  padding: 1rem;
+  border-top: 1px solid #dee2e6;
+}
+
+.status-badge {
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.status-badge.active {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.status-badge.inactive {
+  background-color: #f8d7da;
+  color: #721c24;
+}
+
+.status-badge.expired {
+  background-color: #fff3cd;
+  color: #856404;
+}
+
+.view-btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.view-btn:hover {
+  background-color: #0056b3;
+}
+
+.loading {
+  text-align: center;
+  padding: 2rem;
+  color: #666;
+} 
