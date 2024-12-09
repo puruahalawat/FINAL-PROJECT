@@ -8,102 +8,102 @@ Welcome to the **HealthPlus Fitness Management System**! This platform is design
 - Track customer progress with analytics.
 - View and manage activities through an interactive dashboard.
 
-This guide will walk you through the features and how to use them.
+This guide is tailored for **Admins**, **Trainers**, and **Members**, highlighting their specific functionalities.
 
 ---
 
 ## 2. Getting Started
 
-### System Requirements
-Before using HealthPlus, ensure your system meets the following requirements:
-- A modern web browser (e.g., Google Chrome, Mozilla Firefox).
-- Stable internet connection.
-- User credentials provided by the fitness center administrator.
+### System Compatibility
+- Browser: Google Chrome (recommended), Mozilla Firefox, Microsoft Edge.
+- Devices: Desktop, tablet, or mobile with responsive support.
 
 ### Access Instructions
-Follow these steps to log in:
-1. Open the HealthPlus application link in your browser: **[ App URL]**.
+1. Open the HealthPlus application in your browser: **[App URL]**.
 2. Enter your username and password on the login page.
-3. Click the "Log In" button to access your dashboard.
+3. Click **Log In** to access your dashboard.
 
 ---
 
 ## 3. Features Guide
 
-### **3.1 Logging In**
-1. Navigate to the **Login Page**.
-2. Enter your username and password in the respective fields.
-3. Click **Log In**.
-4. Upon successful login, you will be redirected to the Dashboard.
+### **3.1 Admin Features**
+#### Managing Members
+1. Navigate to the **Members** tab.
+2. View a list of members with details.
+3. Add a new member by clicking **Add Member** and filling out the form.
+4. Edit or delete members as needed.
 
-### **3.2 Managing Members**
-1. Click on the **Members** tab in the navigation bar.
-2. To view member details:
-   - Browse through the list of members.
-   - Click on a member's name to see their profile.
-3. To add a new member:
-   - Click the **Add Member** button.
-   - Fill in the required fields like name, membership plan, and contact details.
-   - Click **Save** to create the member profile.
-4. To edit member details:
-   - Select a member from the list.
-   - Click the **Edit** button.
-   - Make the necessary changes and click **Save**.
+#### Viewing Analytics
+1. Open the **Analytics** tab.
+2. Filter data by date range or class type.
+3. Download reports for revenue and attendance.
 
-### **3.3 Booking Classes**
-1. Navigate to the **Classes** section using the navigation menu.
-2. View the list of available classes, including schedules and instructors.
-3. To book a class:
-   - Click on the desired class.
-   - Confirm the booking by clicking **Book Now**.
-4. To cancel a booking:
-   - Go to the **My Bookings** section.
-   - Locate the booking and click **Cancel**.
+#### Scheduling Classes
+1. Navigate to the **Classes** section.
+2. Add a new class with details like time, capacity, and trainer assignment.
+3. Update or cancel classes as needed.
 
-### **3.4 Viewing the Dashboard**
-1. Upon login, the **Dashboard** provides a quick overview of:
-   - Active members.
-   - Classes scheduled for the day.
-   - Analytics on member activities.
-2. Use the navigation menu to explore other sections like Members and Classes.
+---
+
+### **3.2 Trainer Features**
+#### Monitoring Schedules
+1. Open the **Schedule** tab.
+2. View upcoming classes and attendance lists.
+
+#### Managing Classes
+1. Edit class details such as timings or locations.
+2. Mark attendance for each class.
+
+---
+
+### **3.3 Member Features**
+#### Booking Classes
+1. Navigate to the **Classes** section.
+2. Select a class from the list and click **Book Now**.
+3. Confirm your booking.
+
+#### Viewing Progress
+1. Open the **My Progress** section.
+2. Track your attendance and activity history.
 
 ---
 
 ## 4. FAQs and Troubleshooting
 
-### Frequently Asked Questions
+### FAQs
 #### **I forgot my password.**
-1. On the login page, click the **Forgot Password** link.
-2. Enter your registered email address and follow the instructions to reset your password.
+1. Click the **Forgot Password** link on the login page.
+2. Enter your email address and follow the reset instructions.
 
-#### **I can’t see my bookings.**
-1. Ensure you are logged into the correct account.
-2. Refresh the page or log out and log back in.
-3. If the issue persists, contact support.
+#### **Why can’t I book a class?**
+- Ensure the class is available and not fully booked.
+- Check that you meet the prerequisites for the class.
 
-#### **How do I update my profile?**
-1. Click on your username or profile picture in the top-right corner.
-2. Select **Edit Profile**.
-3. Update your details and save changes.
+#### **How do I report an issue?**
+- Use the **Feedback Form** in the **Help** section or contact support.
 
-### Troubleshooting Common Issues
-#### **Issue: Page not loading properly.**
+---
+
+### Troubleshooting
+#### **Login Issues**
+- Double-check your credentials.
+- Clear your browser’s cache and cookies.
+
+#### **Page Not Loading**
 - Ensure your internet connection is stable.
-- Clear your browser cache and refresh the page.
-
-#### **Issue: Unable to log in.**
-- Verify your username and password.
-- If the issue persists, reset your password or contact support.
+- Update your browser to the latest version.
 
 ---
 
 ## 5. Support and Feedback
-If you need assistance or would like to provide feedback, please reach out to us:
+For assistance, please reach out via:
 
 - **Email**: support@healthplus.com
 - **Phone**: +1 (123) 456-7890
-- **Working Hours**: Monday to Friday, 9:00 AM - 6:00 PM EST
-
-We value your feedback and are here to ensure you have a seamless experience with HealthPlus.
+- **Working Hours**: Monday to Friday, 9 AM to 6 PM EST.
+- **Feedback Form**: Available on the dashboard under the "Help" section.
 
 ---
+
+We hope you enjoy using HealthPlus!
