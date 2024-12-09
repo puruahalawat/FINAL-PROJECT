@@ -21,7 +21,10 @@ This guide is tailored for **Admins**, **Trainers**, and **Members**, highlighti
 ### Access Instructions
 1. Open the HealthPlus application in your browser: **[App URL]**.
 2. Enter your username and password on the login page.
+   ![Login Page](images/login-page.png)
 3. Click **Log In** to access your dashboard.
+4. The dashboard will provide an overview of activities and navigation options:
+   ![Dashboard](images/dashboard.png)
 
 ---
 
@@ -32,6 +35,7 @@ This guide is tailored for **Admins**, **Trainers**, and **Members**, highlighti
 1. Navigate to the **Members** tab.
 2. View a list of members with details.
 3. Add a new member by clicking **Add Member** and filling out the form.
+   ![Add Member](images/add-member.png)
 4. Edit or delete members as needed.
 
 #### Viewing Analytics
@@ -42,6 +46,7 @@ This guide is tailored for **Admins**, **Trainers**, and **Members**, highlighti
 #### Scheduling Classes
 1. Navigate to the **Classes** section.
 2. Add a new class with details like time, capacity, and trainer assignment.
+   ![Classes](images/classes.png)
 3. Update or cancel classes as needed.
 
 ---
@@ -50,6 +55,7 @@ This guide is tailored for **Admins**, **Trainers**, and **Members**, highlighti
 #### Monitoring Schedules
 1. Open the **Schedule** tab.
 2. View upcoming classes and attendance lists.
+   ![Class Schedule](images/class-schedule.png)
 
 #### Managing Classes
 1. Edit class details such as timings or locations.
@@ -59,13 +65,15 @@ This guide is tailored for **Admins**, **Trainers**, and **Members**, highlighti
 
 ### **3.3 Member Features**
 #### Booking Classes
-1. Navigate to the **Classes** section.
+1. Navigate to the **Classes** section using the navigation menu.
 2. Select a class from the list and click **Book Now**.
+   ![Class Booking](images/class-bookings.png)
 3. Confirm your booking.
 
 #### Viewing Progress
 1. Open the **My Progress** section.
 2. Track your attendance and activity history.
+   ![Member Details](images/member-details.png)
 
 ---
 
