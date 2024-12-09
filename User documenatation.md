@@ -6,9 +6,7 @@ Welcome to the **HealthPlus Fitness Management System**! This platform is design
 - Manage memberships and member details.
 - Book and schedule fitness classes.
 - Track customer progress with analytics.
-- View and manage activities through an interactive dashboard.
-
-This guide is tailored for **Admins**, **Trainers**, and **Members**, highlighting their specific functionalities.
+- Use a ChatBot for instant assistance.
 
 ---
 
@@ -16,91 +14,106 @@ This guide is tailored for **Admins**, **Trainers**, and **Members**, highlighti
 
 ### System Compatibility
 - Browser: Google Chrome (recommended), Mozilla Firefox, Microsoft Edge.
-- Devices: Desktop, tablet, or mobile with responsive support.
+- Devices: Desktop, tablet, or mobile.
 
 ### Access Instructions
 1. Open the HealthPlus application in your browser: **[App URL]**.
 2. Enter your username and password on the login page.
    ![Login Page](images/login-page.png)
 3. Click **Log In** to access your dashboard.
-4. The dashboard will provide an overview of activities and navigation options:
    ![Dashboard](images/dashboard.png)
 
 ---
 
 ## 3. Features Guide
 
-### **3.1 Admin Features**
-#### Managing Members
-1. Navigate to the **Members** tab.
-2. View a list of members with details.
-3. Add a new member by clicking **Add Member** and filling out the form.
-   ![Add Member](images/add-member.png)
-4. Edit or delete members as needed.
+### **3.1 ChatBot**
+1. Click on the ChatBot icon in the bottom-right corner.
+2. Type your query, e.g., "What classes are available today?"
+   ![ChatBot Interface](images/chat1.PNG)
 
-#### Viewing Analytics
-1. Open the **Analytics** tab.
-2. Filter data by date range or class type.
-3. Download reports for revenue and attendance.
-
-#### Scheduling Classes
-1. Navigate to the **Classes** section.
-2. Add a new class with details like time, capacity, and trainer assignment.
-   ![Classes](images/classes.png)
-3. Update or cancel classes as needed.
+3. Example interactions:
+   - **"Show my bookings"**: The ChatBot will display all active class bookings.
+   - **"Help with creating a class"**: Redirects you to the class creation page.
+   - **"What’s my next class?"**: Displays the next scheduled class with time and instructor details.
 
 ---
 
-### **3.2 Trainer Features**
-#### Monitoring Schedules
-1. Open the **Schedule** tab.
-2. View upcoming classes and attendance lists.
-   ![Class Schedule](images/class-schedule.png)
+### **3.2 Class Management**
+#### Creating a Class
+1. Navigate to the **Classes** tab.
+2. Click **Create Class** and fill in details.
+   - Enter the class name, date, time, and capacity.
+   - Assign a trainer from the dropdown menu.
+   ![Class Creation](images/class-create-booking.png)
 
-#### Managing Classes
-1. Edit class details such as timings or locations.
-2. Mark attendance for each class.
+#### Editing a Class
+1. Select a class and click **Edit**.
+2. Update details like time or capacity.
+3. Save changes by clicking the **Update Class** button.
+   ![Class Editing](images/class-edit-class.png)
 
----
-
-### **3.3 Member Features**
-#### Booking Classes
-1. Navigate to the **Classes** section using the navigation menu.
-2. Select a class from the list and click **Book Now**.
+#### Booking a Class
+1. Members can view available classes in the **Classes** section.
+2. Click on a class to view its details and then click **Book Now**.
    ![Class Booking](images/class-bookings.png)
-3. Confirm your booking.
 
-#### Viewing Progress
-1. Open the **My Progress** section.
-2. Track your attendance and activity history.
+---
+
+### **3.3 Member Profiles**
+#### Viewing Member Details
+1. Go to the **Members** section.
+2. Click a member to view their profile.
    ![Member Details](images/member-details.png)
+
+#### Editing Member Profiles
+1. Select a member and click **Edit Profile**.
+2. Update contact details or membership status.
+   ![Edit Profile](images/member-edit-profile.png)
+
+---
+
+### **3.4 Dashboard Features**
+1. **Analytics Overview**:
+   - View key metrics like total members, active classes, and revenue stats.
+   - Use filters to analyze specific date ranges or trainers.
+   - Example:
+     ![Analytics Dashboard](images/landing-page-1.png)
+
+2. **Quick Actions**:
+   - Access shortcuts to common features like creating classes or viewing bookings.
 
 ---
 
 ## 4. FAQs and Troubleshooting
 
 ### FAQs
-#### **I forgot my password.**
-1. Click the **Forgot Password** link on the login page.
-2. Enter your email address and follow the reset instructions.
+#### **How do I use the ChatBot?**
+Click the ChatBot icon and type your query, e.g., "Show my bookings."
 
 #### **Why can’t I book a class?**
-- Ensure the class is available and not fully booked.
-- Check that you meet the prerequisites for the class.
+- Ensure the class isn't full.
+- Check if prerequisites for the class are met.
+- Confirm your membership is active.
 
-#### **How do I report an issue?**
-- Use the **Feedback Form** in the **Help** section or contact support.
+#### **How do I reset my password?**
+1. Click the **Forgot Password** link on the login page.
+2. Enter your registered email address and follow the reset instructions.
 
 ---
 
 ### Troubleshooting
 #### **Login Issues**
-- Double-check your credentials.
-- Clear your browser’s cache and cookies.
+- Double-check your username and password.
+- Clear your browser cache and cookies if issues persist.
 
-#### **Page Not Loading**
-- Ensure your internet connection is stable.
-- Update your browser to the latest version.
+#### **ChatBot Isn’t Responding**
+- Refresh the page or log out and log back in.
+- Check your internet connection.
+
+#### **Page Not Loading Properly**
+- Ensure your browser is up to date.
+- Try accessing the platform in an incognito window.
 
 ---
 
@@ -109,9 +122,8 @@ For assistance, please reach out via:
 
 - **Email**: support@healthplus.com
 - **Phone**: +1 (123) 456-7890
-- **Working Hours**: Monday to Friday, 9 AM to 6 PM EST.
 - **Feedback Form**: Available on the dashboard under the "Help" section.
 
 ---
 
-We hope you enjoy using HealthPlus!
+We hope you enjoy using HealthPlus! If you encounter any issues or have suggestions, don't hesitate to contact our support team.
