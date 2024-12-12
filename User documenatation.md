@@ -108,7 +108,7 @@ The **Staff Management** feature in HealthPlus allows administrators to easily m
   - Role (e.g., Instructor, Admin)
   - Actions (Edit/Delete)
 - **Image Reference**:  
-  ![Staff Management - Viewing](images/STAFF 2.png)
+  ![Staff Management - Viewing](images/STAFF2.png)
 
 ---
 
@@ -121,7 +121,7 @@ The **Staff Management** feature in HealthPlus allows administrators to easily m
   - **Role**: Choose a role from the dropdown (e.g., Staff, Admin, Instructor).
 - Once the form is filled, click **Add Staff** to save the details.
 - **Image Reference**:  
-  ![Adding New Staff](images/STAFF 1.png)
+  ![Adding New Staff](images/STAFF1.png)
 
 ---
 
@@ -130,7 +130,7 @@ The **Staff Management** feature in HealthPlus allows administrators to easily m
 - Editable fields (e.g., Name, Email, Role) will appear. Modify the details as needed.
 - Click **Save** to confirm the changes, or **Cancel** to discard them.
 - **Image Reference**:  
-  ![Editing Staff](images/STAFF 3.png)
+  ![Editing Staff](images/STAFF3.png)
 
 ---
 
