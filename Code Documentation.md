@@ -177,7 +177,9 @@ export const calculateMembershipCost = (plan, duration) => {
   "message": "Booking created successfully!"
 }
 ```
-![API Spec](images/api.png)  <--- Correct path
+
+#### API Code Example
+![API Spec](images/api.png)  
 
 ---
 
