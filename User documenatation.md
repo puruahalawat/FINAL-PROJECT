@@ -85,62 +85,17 @@ Welcome to the **HealthPlus Fitness Management System**! This platform is design
 
 ---
 
-### 3.6 Understanding How Your Data is Organized
+### 3.5 Understanding How Your Data is Organized
 
-The following diagram illustrates how different parts of HealthPlus are connected:
+HealthPlus organizes your information into interconnected categories to make it easy to manage and access. Here's a simplified overview:
 
-+-----------------+     +-------------------+     +-----------------+
-|   Your Profile  |---->| Your Membership   |---->|     Bookings    |
-|(Users)        |     |(Members)        |     |(Bookings)       |
-+-----------------+     +--------+---------+     +--------+---------+
-                       ^        |                       ^
-                       |        v                       |
-                       |  +-----------------+           |
-                       +--| Membership Plans|-----------+
-                          |(MembershipPlans)|
-                          +-----------------+
-                                ^
-                                |
-                                v
-                          +-----------------+
-                          |    Classes      |
-                          |(Classes)        |
-                          +-----------------+
-+-----------------+     +-------------------+     +-----------------+
-|   Your Profile  |---->| Your Membership   |---->|     Bookings    |
-|(Users)        |     |(Members)        |     |(Bookings)       |
-+-----------------+     +--------+---------+     +--------+---------+
-                       ^        |                       ^
-                       |        v                       |
-                       |  +-----------------+           |
-                       +--| Membership Plans|-----------+
-                          |(MembershipPlans)|
-                          +-----------------+
-                                ^
-                                |
-                                v
-                          +-----------------+
-                          |    Classes      |
-                          |(Classes)        |
-                          +-----------------+
-+-----------------+     +-------------------+     +-----------------+
-|   Your Profile  |---->| Your Membership   |---->|     Bookings    |
-|(Users)        |     |(Members)        |     |(Bookings)       |
-+-----------------+     +--------+---------+     +--------+---------+
-                       ^        |                       ^
-                       |        v                       |
-                       |  +-----------------+           |
-                       +--| Membership Plans|-----------+
-                          |(MembershipPlans)|
-                          +-----------------+
-                                ^
-                                |
-                                v
-                          +-----------------+
-                          |    Classes      |
-                          |(Classes)        |
-                          +-----------------+
-This shows how your profile is linked to your membership, which in turn is linked to bookings and membership plans. Classes are also linked to bookings.
+*   **Your Profile (Users):** This contains your personal information, login details, and your role (e.g., member, instructor, admin).
+*   **Membership Plans:** These define the different types of memberships available, including pricing, duration, and included features.
+*   **Your Membership (Members):** This links you to a specific membership plan and tracks your membership status, start and end dates.
+*   **Classes:** These are the fitness classes offered, including the instructor, date, time, and capacity.
+*   **Bookings:** These are your reservations for specific classes. They link your membership to a class.
+
+This structure ensures that all your information is organized and readily accessible within the HealthPlus system.
 ---
 
 ## 4. FAQs and Troubleshooting
