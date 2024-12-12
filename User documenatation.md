@@ -95,8 +95,8 @@ HealthPlus organizes your information into interconnected categories to make it 
 *   **Classes:** These are the fitness classes offered, including the instructor, date, time, and capacity.
 *   **Bookings:** These are your reservations for specific classes. They link your membership to a class.
 
-This structure ensures that all your information is organized and readily accessible within the HealthPlus system.
 ---
+This structure ensures that all your information is organized and readily accessible within the HealthPlus system.
 
 ## 4. FAQs and Troubleshooting
 
