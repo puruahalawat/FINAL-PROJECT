@@ -161,6 +161,8 @@ export const calculateMembershipCost = (plan, duration) => {
 ## 5. API Documentation
 
 ### Example: Create a Booking
+
+#### API Spec '
 #### Endpoint: **POST** `/api/bookings`
 **Request**:
 ```json
@@ -175,6 +177,7 @@ export const calculateMembershipCost = (plan, duration) => {
   "message": "Booking created successfully!"
 }
 ```
+![API Spec](images/api.png)  <--- Correct path
 
 ---
 
