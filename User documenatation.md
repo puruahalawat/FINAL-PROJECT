@@ -96,7 +96,49 @@ HealthPlus organizes your information into interconnected categories to make it 
 *   **Bookings:** These are your reservations for specific classes. They link your membership to a class.
 
 ---
-This structure ensures that all your information is organized and readily accessible within the HealthPlus system.
+### 3.6 Staff Management
+
+HealthPlus provides tools for managing staff information, roles, and responsibilities within the fitness center.
+
+**Viewing Staff Members**
+
+1. **Navigate to the Staff tab:** In the main navigation menu, click on the **"Staff"** tab. 
+    [Image 1: Screenshot of the main navigation menu with the "Staff" tab highlighted](images/image1.png) 
+
+2. **View the staff list:** A table will be displayed showing all active staff members. 
+    *   The table includes columns for:
+        *   **Name:** The full name of the staff member.
+        *   **Email:** The staff member's email address.
+        *   **Role:** The staff member's role within the organization (e.g., Instructor, Receptionist, Manager, Admin).
+    *   **Actions:** This column will typically include buttons for editing or deleting staff members.
+
+3. **View or edit staff details:** Click the **"Edit"** button next to the desired staff member to view or modify their information.
+
+**Adding New Staff Members**
+
+1. **Navigate to the Staff tab:** In the main navigation menu, click on the **"Staff"** tab. 
+2. **Click "Add New Staff":** Locate and click the **"Add New Staff"** button (usually in the top right corner of the staff list).
+3. **Fill in the staff details:** A form will appear. Enter the following information for the new staff member:
+    *   **Name:** Full name of the staff member.
+    *   **Email:** Email address of the staff member.
+    *   **Password:** Create a strong password for the staff member's account.
+    *   **Role:** Select the appropriate role for the staff member from the dropdown menu (e.g., Instructor, Receptionist, Manager, Admin).
+4. **Save the new staff member:** Click the **"Save"** or **"Add Staff"** button to create the new staff account.
+
+**[Image 2: Screenshot of the "Add New Staff" modal](images/image2.png)**
+
+**Key features of Staff Management:**
+
+*   **Role-Based Access Control:** Different roles (e.g., Instructor, Manager, Admin) have varying levels of access to system features and data.
+*   **Staff Reporting:** Generate reports on staff activity, such as class attendance or hours worked.
+*   **Communication Tools:** Facilitate communication between staff members and management through in-app messaging or announcements.
+
+
+**[Image 3: Screenshot of the Staff Management table with editing options](images/image3.png)**
+
+
+
+---
 
 ## 4. FAQs and Troubleshooting
 
