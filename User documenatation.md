@@ -96,45 +96,61 @@ HealthPlus organizes your information into interconnected categories to make it 
 *   **Bookings:** These are your reservations for specific classes. They link your membership to a class.
 
 ---
-### 3.6 Staff Management
+### 3.6  Staff Management
 
-HealthPlus provides tools for managing staff information, roles, and responsibilities within the fitness center.
+The **Staff Management** feature in HealthPlus allows administrators to easily manage staff members, including adding new staff, editing existing staff details, and deleting staff records. Here's how it works:
 
-**Viewing Staff Members**
+### 1. Viewing Staff Members
+- Navigate to the **Staff** tab on the left-hand menu.
+- You will see a table displaying:
+  - Staff Name
+  - Email
+  - Role (e.g., Instructor, Admin)
+  - Actions (Edit/Delete)
+- **Image Reference**:  
+  ![Staff Management - Viewing](images/STAFF 2.png)
 
-1. **Navigate to the Staff tab:** In the main navigation menu, click on the **"Staff"** tab. 
-  ![Navigate to the Staff tab](images/STAFF 1.png)
+---
 
-2. **View the staff list:** A table will be displayed showing all active staff members. 
-    *   The table includes columns for:
-        *   **Name:** The full name of the staff member.
-        *   **Email:** The staff member's email address.
-        *   **Role:** The staff member's role within the organization (e.g., Instructor, Receptionist, Manager, Admin).
-    *   **Actions:** This column will typically include buttons for editing or deleting staff members.
+### 2. Adding New Staff
+- Click on the **Add New Staff** button on the top right of the page.
+- A pop-up form will appear with the following fields:
+  - **Name**: Enter the staff member's full name.
+  - **Email**: Provide a valid email address.
+  - **Password**: Set a password for the new account.
+  - **Role**: Choose a role from the dropdown (e.g., Staff, Admin, Instructor).
+- Once the form is filled, click **Add Staff** to save the details.
+- **Image Reference**:  
+  ![Adding New Staff](images/STAFF 1.png)
 
-3. **View or edit staff details:** Click the **"Edit"** button next to the desired staff member to view or modify their information.
+---
 
-**Adding New Staff Members**
+### 3. Editing Staff Details
+- To update a staff member’s details, click the **Edit** button in the Actions column.
+- Editable fields (e.g., Name, Email, Role) will appear. Modify the details as needed.
+- Click **Save** to confirm the changes, or **Cancel** to discard them.
+- **Image Reference**:  
+  ![Editing Staff](images/STAFF 3.png)
 
-1. **Navigate to the Staff tab:** In the main navigation menu, click on the **"Staff"** tab. 
-2. **Click "Add New Staff":** Locate and click the **"Add New Staff"** button (usually in the top right corner of the staff list).
-3. **Fill in the staff details:** A form will appear. Enter the following information for the new staff member:
-    *   **Name:** Full name of the staff member.
-    *   **Email:** Email address of the staff member.
-    *   **Password:** Create a strong password for the staff member's account.
-    *   **Role:** Select the appropriate role for the staff member from the dropdown menu (e.g., Instructor, Receptionist, Manager, Admin).
-4. **Save the new staff member:** Click the **"Save"** or **"Add Staff"** button to create the new staff account.
+---
 
-**[Image 2: Screenshot of the "Add New Staff" modal](images/STAFF 2.png)**
+### 4. Deleting Staff
+- To remove a staff member, click the **Delete** button in the Actions column.
+- A confirmation prompt will appear to ensure the deletion is intentional.
 
-**Key features of Staff Management:**
+---
 
-*   **Role-Based Access Control:** Different roles (e.g., Instructor, Manager, Admin) have varying levels of access to system features and data.
-*   **Staff Reporting:** Generate reports on staff activity, such as class attendance or hours worked.
-*   **Communication Tools:** Facilitate communication between staff members and management through in-app messaging or announcements.
+### Key Features of Staff Management
+- **Efficient Organization**: Quickly add, edit, or delete staff records.
+- **Role Assignment**: Assign appropriate roles (Admin, Staff, Instructor) to each user.
+- **User-Friendly Design**: A simple and clean interface for seamless navigation.
 
+---
 
-**[Image 3: Screenshot of the Staff Management table with editing options](images/STAFF 3.png)**
+### Tips for Users
+- Use strong passwords when adding new staff accounts.
+- Regularly review staff details to keep the records up to date.
+- Only authorized admins should manage the staff database to avoid accidental changes.
 
 
 
