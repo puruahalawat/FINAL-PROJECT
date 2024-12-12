@@ -103,7 +103,7 @@ HealthPlus provides tools for managing staff information, roles, and responsibil
 **Viewing Staff Members**
 
 1. **Navigate to the Staff tab:** In the main navigation menu, click on the **"Staff"** tab. 
-    [Image 1: Screenshot of the main navigation menu with the "Staff" tab highlighted](images/STAFF 1.png) 
+  ![Navigate to the Staff tab](STAFF 1.png)
 
 2. **View the staff list:** A table will be displayed showing all active staff members. 
     *   The table includes columns for:
