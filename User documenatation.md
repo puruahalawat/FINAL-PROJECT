@@ -103,7 +103,7 @@ HealthPlus provides tools for managing staff information, roles, and responsibil
 **Viewing Staff Members**
 
 1. **Navigate to the Staff tab:** In the main navigation menu, click on the **"Staff"** tab. 
-    [Image 1: Screenshot of the main navigation menu with the "Staff" tab highlighted](images/image1.png) 
+    [Image 1: Screenshot of the main navigation menu with the "Staff" tab highlighted](images/STAFF 1.png) 
 
 2. **View the staff list:** A table will be displayed showing all active staff members. 
     *   The table includes columns for:
@@ -125,7 +125,7 @@ HealthPlus provides tools for managing staff information, roles, and responsibil
     *   **Role:** Select the appropriate role for the staff member from the dropdown menu (e.g., Instructor, Receptionist, Manager, Admin).
 4. **Save the new staff member:** Click the **"Save"** or **"Add Staff"** button to create the new staff account.
 
-**[Image 2: Screenshot of the "Add New Staff" modal](images/image2.png)**
+**[Image 2: Screenshot of the "Add New Staff" modal](images/STAFF 2.png)**
 
 **Key features of Staff Management:**
 
@@ -134,7 +134,7 @@ HealthPlus provides tools for managing staff information, roles, and responsibil
 *   **Communication Tools:** Facilitate communication between staff members and management through in-app messaging or announcements.
 
 
-**[Image 3: Screenshot of the Staff Management table with editing options](images/image3.png)**
+**[Image 3: Screenshot of the Staff Management table with editing options](images/STAFF 3.png)**
 
 
 
