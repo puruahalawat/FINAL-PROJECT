@@ -178,7 +178,7 @@ export const calculateMembershipCost = (plan, duration) => {
 }
 ```
 
-#### API Code Example
+#### API Spec
 ![API Spec](images/api.png)  
 
 ---
